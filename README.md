@@ -4,11 +4,15 @@ I’m a second-year BTech student and the Head of the Development Department in 
 
 🚀 About Me 🚀:
 
-🌱 Currently, I am on the path of mastering Next.js, Three.js, and Firebase, and I’m improving my knowledge in these areas.  
-🖥️ I am proficient in the MERN stack and also know Tailwind CSS, Bootstrap, and Material UI, enabling me to build websites with great UI.  
-🎯 My future goal is to dive into AI/ML and work on innovative projects.  
-💡 I love working on projects and contributing to open-source. So far, I've worked on two hackathons as part of the organizing team in the website field.  
-🤝 Feel free to reach out for collaborations on exciting projects or new ideas!  
+🌱 Currently, I am on the path of mastering Next.js, Three.js, and Firebase, and I’m improving my knowledge in these areas.<br/>
+
+🖥️ I am proficient in the MERN stack and also know Tailwind CSS, Bootstrap, and Material UI, enabling me to build websites with great UI.<br/>
+
+🎯 My future goal is to dive into AI/ML and work on innovative projects.<br/>
+
+💡 I love working on projects and contributing to open-source. So far, I've worked on two hackathons as part of the organizing team in the website field.<br/>
+
+🤝 Feel free to reach out for collaborations on exciting projects or new ideas!<br/>
 
 Let’s connect and create something impactful! 🚀
 
