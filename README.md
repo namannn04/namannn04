@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Naman Dadhich 🚀 :
+# 👋 Hey there! I'm Naman Dadhich 💻 
 
 I’m a second-year BTech student and the Head of the Development Department in Google Developer Student Clubs on Campus - MSIT. I'm always on the lookout for something new to explore and learn.
 
