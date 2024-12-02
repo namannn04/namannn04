@@ -1,4 +1,4 @@
-<div align="center"><h2>👋 Hey there! I'm Naman Dadhich 💻</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5FF727&background=FE67FF00&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hey+there!+I'm+Naman+Dadhich+%F0%9F%92%BB;Mern+Stack+Developer" alt="Typing SVG" /></a>
 <img src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif"/>
 <br/><br/>
 <h4>I’m a second-year BTech student and the Head of the Development Department in Google Developer Student Clubs on Campus - MSIT. I'm always on the lookout for something new to explore and learn.</h4></div>
