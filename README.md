@@ -1,7 +1,7 @@
 <div align="center"><h2>👋 Hey there! I'm Naman Dadhich 💻</h2>
 <img src="https://raw.githubusercontent.com/gist/zeysert/bc8c0a4090c377a755dcc77bbeac66e4/raw/43f9b12677934c5d99499f6d9d574d30c86f979c/coding.gif"/></div>
 <br/><br/>
-I’m a second-year BTech student and the Head of the Development Department in Google Developer Student Clubs on Campus - MSIT. I'm always on the lookout for something new to explore and learn.
+I’m a second-year BTech student and the Head of the Development Department in Google Developer Student Clubs on Campus - MSIT. I'm always on the lookout for something new to explore and learn.<br/>
 
 🚀 About Me 🚀:
 
