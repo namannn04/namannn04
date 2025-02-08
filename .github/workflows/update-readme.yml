@@ -3,24 +3,35 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "30 0 * * *"
+
+permissions:
+  contents: write  # Grants write access to GITHUB_TOKEN
+
 jobs:
   update-followers:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - name: Update followers list
         run: |
           cd scripts && npm install && ACCESS_TOKEN=${{ secrets.ACCESS_TOKEN }} npm start
-      - name: Commit changes
+
+      - name: Configure Git
         run: |
           git config --local user.email "${{ secrets.GIT_EMAIL }}"
           git config --local user.name "${{ secrets.GIT_USERNAME }}"
+
+      - name: Pull latest changes
+        run: git pull origin main --rebase  # Pull latest changes first to avoid conflicts
+
+      - name: Commit changes
+        run: |
           git add -A
-          git diff-index --quiet HEAD || git commit -m "Updated README.md"
-      - name: Pull changes
-        run: git pull -r
+          git diff --cached --quiet || git commit -m "Updated README.md"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          branch: main  # Explicitly set 'main' instead of ${{ github.ref }}
