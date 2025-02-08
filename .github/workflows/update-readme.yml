@@ -22,8 +22,13 @@ jobs:
           git config --local user.email "${{ secrets.GIT_EMAIL }}"
           git config --local user.name "${{ secrets.GIT_USERNAME }}"
 
+      - name: Stash unstaged changes
+        run: git stash --include-untracked
+
       - name: Pull latest changes
-        run: git pull origin main --rebase  # Pull latest changes first to avoid conflicts
+        run: |
+          git pull origin main --rebase
+          git stash pop || echo "No stash to apply"
 
       - name: Commit changes
         run: |
@@ -34,4 +39,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main  # Explicitly set 'main' instead of ${{ github.ref }}
+          branch: main
