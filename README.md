@@ -83,19 +83,19 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
   </p>
   <!--END_SECTION:workflows-update-->
 <div align="center">
-    <a href="https://www.devpulkit.in" style="text-decoration: none; display: inline-block;">
+    <a href="https://www.namandadhich.me" style="text-decoration: none; display: inline-block;">
         <img src="./assets/web.svg" alt="Website" height="30" width="30" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/pulkitxm" style="text-decoration: none; display: inline-block;">
+    <a href="https://www.linkedin.com/in/namannn04" style="text-decoration: none; display: inline-block;">
         <img src="./assets/linkedin.svg" alt="LinkedIn" height="30" width="30" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://discord.gg/790426084994187304" style="text-decoration: none; display: inline-block;">
+<!--     <a href="https://discord.gg/790426084994187304" style="text-decoration: none; display: inline-block;">
         <img src="./assets/discord.svg" alt="Discord" height="30" width="30" />
-    </a>
+    </a> -->
     &nbsp;&nbsp;
-    <a href="https://x.com/devpulkitt" style="text-decoration: none; display: inline-block;">
+    <a href="https://x.com/namannn04" style="text-decoration: none; display: inline-block;">
         <img src="./assets/twitter.svg" alt="Twitter" height="30" width="30" />
     </a>
 </div>
