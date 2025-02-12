@@ -9,12 +9,10 @@ async function main() {
 
   try {
     console.log("Fetching followers");
-    const [followers] = await Promise.all([
-      handleFetchFollowers(),
-    ]);
-    await updateWorkflowNumber();
+    const [followers] = await Promise.all([handleFetchFollowers()]);
+    const workflowCount = await updateWorkflowNumber();
     console.log(
-      `Successfully fetched ${followers.length} followers, respectively.`,
+      `Successfully fetched ${followers.length} followers, respectively. Workflow count: ${workflowCount}`,
     );
 
     const TODAY_DIR_NAME = `${TODAY.getDate()}-${TODAY.getMonth() + 1}-${TODAY.getFullYear()}`;

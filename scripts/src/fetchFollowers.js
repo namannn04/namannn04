@@ -15,12 +15,12 @@ const octokit = new Octokit({
 });
 
 const getLatestFollowers = async () => {
-  const username = "pulkitxm";
+  const username = "namannn04";
   try {
     const { data } = await octokit.rest.users.listFollowersForAuthenticatedUser(
       {
         username: username,
-        per_page: 1000000000000,
+        per_page: 100,
       },
     );
 
@@ -29,9 +29,8 @@ const getLatestFollowers = async () => {
       picUrl: follower.avatar_url,
     }));
 
-    followers.sort((a, b) => {
-      return a.profileUrl.localeCompare(b.profileUrl);
-    });
+    // Sorting followers alphabetically by profile URL
+    followers.sort((a, b) => a.profileUrl.localeCompare(b.profileUrl));
 
     return followers;
   } catch (error) {
@@ -41,26 +40,46 @@ const getLatestFollowers = async () => {
 
 export async function handleFetchFollowers() {
   const followers = await getLatestFollowers();
-  const followersLength = followers.length;
-  let readme = readFileSync(READMEFILE_PATH, "utf-8");
+  if (!followers) {
+    console.error("No followers fetched");
+    return;
+  }
 
-  readme = readme.replace(
-    /(?<=<!--START_SECTION:top-followers-heading-->\n)[\s\S]*(?=\n<!--End_SECTION:top-followers-heading-->)/,
-    `\n### :sparkles: [My followers (${followersLength})](https://github.com/Pulkitxm?tab=followers)\n`,
+  const followersLength = followers.length;
+  let readmeContent;
+
+  try {
+    readmeContent = readFileSync(READMEFILE_PATH, "utf-8");
+  } catch (error) {
+    console.error("Error reading README file:", error.message);
+    return;
+  }
+
+  console.log("Original README content:", readmeContent);
+
+  // Fixing case sensitivity issue in regex
+  readmeContent = readmeContent.replace(
+    /<!--START_SECTION:top-followers-heading-->\n*[\s\S]*?\n*<!--End_SECTION:top-followers-heading-->/i,
+    `<!--START_SECTION:top-followers-heading-->\n### :sparkles: [My followers (${followersLength})](https://github.com/namannn04?tab=followers)\n<!--End_SECTION:top-followers-heading-->`,
   );
 
-  readme = readme.replace(
-    /(?<=<!--START_SECTION:top-followers-->\n)[\s\S]*(?=\n<!--END_SECTION:top-followers-->)/,
-    `<div style="display: flex; justify-content: center; flex-wrap: wrap;">` +
+  readmeContent = readmeContent.replace(
+    /<!--START_SECTION:top-followers-->\n*[\s\S]*?\n*<!--END_SECTION:top-followers-->/i,
+    `<!--START_SECTION:top-followers-->\n<div style="display: flex; justify-content: center; flex-wrap: wrap;">` +
       followers
         .map(
           (follower) =>
             `<a href="${follower.profileUrl}" target="_blank"><img src="${follower.picUrl}" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>`,
         )
         .join("\n") +
-      `</div>`,
+      `</div>\n<!--END_SECTION:top-followers-->`,
   );
 
-  writeFileSync(READMEFILE_PATH, readme);
+  try {
+    writeFileSync(READMEFILE_PATH, readmeContent);
+  } catch (error) {
+    console.error("Error writing README file:", error.message);
+    return;
+  }
   return followers;
 }

@@ -5,7 +5,7 @@ on:
     - cron: "30 0 * * *"
 
 permissions:
-  contents: write  # Grants write access to GITHUB_TOKEN
+  contents: write
 
 jobs:
   update-followers:
