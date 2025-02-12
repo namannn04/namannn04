@@ -1,9 +1,7 @@
-
-
-
-
 <!--START_SECTION:top-followers-heading-->
+
 ### :sparkles: [My followers (36)](https://github.com/namannn04?tab=followers)
+
 <!--End_SECTION:top-followers-heading-->
 
 <!--START_SECTION:top-followers-->
@@ -44,6 +42,8 @@
 <a href="https://github.com/yyle88" target="_blank"><img src="https://avatars.githubusercontent.com/u/162403837?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/zshaian" target="_blank"><img src="https://avatars.githubusercontent.com/u/81682916?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a></div>
 <!--END_SECTION:top-followers-->
+
+---
 
 <!--START_SECTION:workflows-update-->
 
