@@ -27,9 +27,7 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 ---
 
 <!--START_SECTION:top-followers-heading-->
-
 ### :sparkles: [My followers (36)](https://github.com/namannn04?tab=followers)
-
 <!--End_SECTION:top-followers-heading-->
 
 <!--START_SECTION:top-followers-->
@@ -77,8 +75,8 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 
   <p align="center">
     This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-    Last refresh: <b>Feb 12, 2025, 8:00 AM IST</b><br/>
-    Number of workflows: <b>13</b><br/><br/>
+    Last refresh: <b>Feb 13, 2025, 7:26 AM IST</b><br/>
+    Number of workflows: <b>14</b><br/><br/>
     Made with ❤️ by <b>Naman Dadhich</b>
   </p>
   <!--END_SECTION:workflows-update-->
