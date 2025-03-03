@@ -27,7 +27,7 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 ---
 
 <!--START_SECTION:top-followers-heading-->
-### :sparkles: [My followers (36)](https://github.com/namannn04?tab=followers)
+### :sparkles: [My followers (37)](https://github.com/namannn04?tab=followers)
 <!--End_SECTION:top-followers-heading-->
 
 <!--START_SECTION:top-followers-->
@@ -65,6 +65,7 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 <a href="https://github.com/Sanidhya14321" target="_blank"><img src="https://avatars.githubusercontent.com/u/163896084?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/TanwarVanshika" target="_blank"><img src="https://avatars.githubusercontent.com/u/148867501?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/TT1882" target="_blank"><img src="https://avatars.githubusercontent.com/u/98269518?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/u-ataei" target="_blank"><img src="https://avatars.githubusercontent.com/u/170228551?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/vibhorjoshi" target="_blank"><img src="https://avatars.githubusercontent.com/u/105739194?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/yyle88" target="_blank"><img src="https://avatars.githubusercontent.com/u/162403837?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a></div>
 <!--END_SECTION:top-followers-->
@@ -75,8 +76,8 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 
   <p align="center">
     This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-    Last refresh: <b>Mar 2, 2025, 7:39 AM IST</b><br/>
-    Number of workflows: <b>31</b><br/><br/>
+    Last refresh: <b>Mar 3, 2025, 7:37 AM IST</b><br/>
+    Number of workflows: <b>32</b><br/><br/>
     Made with ❤️ by <b>Naman Dadhich</b>
   </p>
   <!--END_SECTION:workflows-update-->
