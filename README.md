@@ -1,4 +1,4 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5FF727&background=FE67FF00&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+there!+I'm+Naman+Dadhich+%F0%9F%92%BB;Mern+Stack+Developer" alt="Typing SVG" /></a>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=5FF727&background=FE67FF00&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+there!+I'm+Naman+Dadhich+%F0%9F%92%BB;Full+Stack+Developer" alt="Typing SVG" /></a>
 <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" height="auto" width="900"/>
 <br/><br/>
 <h3>I’m a second-year BTech student and the Head of the Development Department in Google Developer Student Clubs on Campus - MSIT. I'm always on the lookout for something new to explore and learn.</h3></div>
