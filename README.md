@@ -27,11 +27,12 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 ---
 
 <!--START_SECTION:top-followers-heading-->
-### :sparkles: [My followers (42)](https://github.com/namannn04?tab=followers)
+### :sparkles: [My followers (44)](https://github.com/namannn04?tab=followers)
 <!--End_SECTION:top-followers-heading-->
 
 <!--START_SECTION:top-followers-->
-<div style="display: flex; justify-content: center; flex-wrap: wrap;"><a href="https://github.com/aditya7483thakur" target="_blank"><img src="https://avatars.githubusercontent.com/u/119169142?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<div style="display: flex; justify-content: center; flex-wrap: wrap;"><a href="https://github.com/0joseDark" target="_blank"><img src="https://avatars.githubusercontent.com/u/162716366?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/aditya7483thakur" target="_blank"><img src="https://avatars.githubusercontent.com/u/119169142?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/akanoao" target="_blank"><img src="https://avatars.githubusercontent.com/u/84169126?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/arshhh04" target="_blank"><img src="https://avatars.githubusercontent.com/u/175210777?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/ayush-tomer" target="_blank"><img src="https://avatars.githubusercontent.com/u/176940687?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -49,6 +50,7 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 <a href="https://github.com/idakshmalhotra" target="_blank"><img src="https://avatars.githubusercontent.com/u/178939135?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/IDouble" target="_blank"><img src="https://avatars.githubusercontent.com/u/18186995?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Ishita928" target="_blank"><img src="https://avatars.githubusercontent.com/u/146575485?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/JOELNATHAN544" target="_blank"><img src="https://avatars.githubusercontent.com/u/180976964?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/JohnMwendwa" target="_blank"><img src="https://avatars.githubusercontent.com/u/72663882?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/K1rsN7" target="_blank"><img src="https://avatars.githubusercontent.com/u/123446875?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Khushipawar37" target="_blank"><img src="https://avatars.githubusercontent.com/u/164056757?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -81,8 +83,8 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 
   <p align="center">
     This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-    Last refresh: <b>Jul 15, 2025, 8:04 AM IST</b><br/>
-    Number of workflows: <b>166</b><br/><br/>
+    Last refresh: <b>Jul 16, 2025, 8:00 AM IST</b><br/>
+    Number of workflows: <b>167</b><br/><br/>
     Made with ❤️ by <b>Naman Dadhich</b>
   </p>
   <!--END_SECTION:workflows-update-->
