@@ -54,7 +54,6 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 <a href="https://github.com/JohnMwendwa" target="_blank"><img src="https://avatars.githubusercontent.com/u/72663882?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/K1rsN7" target="_blank"><img src="https://avatars.githubusercontent.com/u/123446875?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Khushipawar37" target="_blank"><img src="https://avatars.githubusercontent.com/u/164056757?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
-<a href="https://github.com/maIewife" target="_blank"><img src="https://avatars.githubusercontent.com/u/204786214?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/manas95826" target="_blank"><img src="https://avatars.githubusercontent.com/u/74074241?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/marichu-kt" target="_blank"><img src="https://avatars.githubusercontent.com/u/145447256?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/mburuxx" target="_blank"><img src="https://avatars.githubusercontent.com/u/111112361?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -64,6 +63,7 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 <a href="https://github.com/Nevin100" target="_blank"><img src="https://avatars.githubusercontent.com/u/146621784?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/oluiscabral" target="_blank"><img src="https://avatars.githubusercontent.com/u/58452540?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/OracleBrain" target="_blank"><img src="https://avatars.githubusercontent.com/u/121432807?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/paraphilic" target="_blank"><img src="https://avatars.githubusercontent.com/u/204786214?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/pardip108" target="_blank"><img src="https://avatars.githubusercontent.com/u/185998396?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Peti6inge" target="_blank"><img src="https://avatars.githubusercontent.com/u/158772591?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/prince545" target="_blank"><img src="https://avatars.githubusercontent.com/u/181702475?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -82,8 +82,8 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 
   <p align="center">
     This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-    Last refresh: <b>Aug 15, 2025, 7:56 AM IST</b><br/>
-    Number of workflows: <b>197</b><br/><br/>
+    Last refresh: <b>Aug 16, 2025, 7:50 AM IST</b><br/>
+    Number of workflows: <b>198</b><br/><br/>
     Made with ❤️ by <b>Naman Dadhich</b>
   </p>
   <!--END_SECTION:workflows-update-->
