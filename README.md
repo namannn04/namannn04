@@ -27,7 +27,7 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 ---
 
 <!--START_SECTION:top-followers-heading-->
-### :sparkles: [My followers (45)](https://github.com/namannn04?tab=followers)
+### :sparkles: [My followers (46)](https://github.com/namannn04?tab=followers)
 <!--End_SECTION:top-followers-heading-->
 
 <!--START_SECTION:top-followers-->
@@ -36,6 +36,7 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 <a href="https://github.com/akanoao" target="_blank"><img src="https://avatars.githubusercontent.com/u/84169126?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/arshhh04" target="_blank"><img src="https://avatars.githubusercontent.com/u/175210777?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/ayush-tomer" target="_blank"><img src="https://avatars.githubusercontent.com/u/176940687?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
+<a href="https://github.com/Cappybara12" target="_blank"><img src="https://avatars.githubusercontent.com/u/122734275?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/chandnikumari78362024" target="_blank"><img src="https://avatars.githubusercontent.com/u/228055408?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/charlieduplon992" target="_blank"><img src="https://avatars.githubusercontent.com/u/194280783?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
 <a href="https://github.com/Chitus" target="_blank"><img src="https://avatars.githubusercontent.com/u/29604662?v=4" alt="Follower" width="50" height="50" style="border-radius: 50%; margin: 3px;"/></a>
@@ -84,8 +85,8 @@ Let’s connect and create something impactful! 🚀 ![wakatime](https://visitor
 
   <p align="center">
     This <i>README</i> file is refreshed <b>every 24 hours</b>!<br/>
-    Last refresh: <b>Mar 7, 2026, 8:30 AM IST</b><br/>
-    Number of workflows: <b>401</b><br/><br/>
+    Last refresh: <b>Mar 8, 2026, 8:44 AM IST</b><br/>
+    Number of workflows: <b>402</b><br/><br/>
     Made with ❤️ by <b>Naman Dadhich</b>
   </p>
   <!--END_SECTION:workflows-update-->
