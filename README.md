@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Naman Dadhich 👋</h1>
-<h3 align="center">Full-Stack Developer | Building products end-to-end</h3>
+<h3 align="center">SDE</h3>
 
 <p align="center">
   <a href="https://namandadhich.in"><img src="https://img.shields.io/badge/Website-namandadhich.in-000?style=flat-square&logo=vercel&logoColor=white" /></a>
